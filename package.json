@@ -1,6 +1,6 @@
 {
-  "name": "chimpy",
-  "version": "0.54.0",
+  "name": "@share911/chimpy",
+  "version": "0.54.1",
   "description": "Develop acceptance tests & end-to-end tests with realtime feedback.",
   "keywords": [
     "simian",
@@ -18,11 +18,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheBrainFamily/chimpy"
+    "url": "https://github.com/alanning/chimpy"
   },
   "homepage": "",
   "bugs": {
-    "url": "https://github.com/TheBrainFamily/chimpy/issues"
+    "url": "https://github.com/alanning/chimpy/issues"
   },
   "watch": {
     "prepare": "src/{lib,bin}/**/*.js"
